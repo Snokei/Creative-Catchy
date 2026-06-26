@@ -17,13 +17,6 @@ Welcome to **The Repo Vault**! This is my personal collection of useful, inspiri
 
 ---
 
-## 🌐 Web Development
-*Frontend and Backend libraries, frameworks, and boilerplates.*
-
-* [**Repository Name Here**](https://github.com/username/repo-name) - A brief, one-sentence description of what this repo does and why you saved it.
-* [**React**](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-* [**Express**](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for Node.js.
-
 ## 🛠️ Developer Tools
 *Utilities, CLIs, and workflows that make a developer's life easier.*
 
@@ -34,18 +27,6 @@ Welcome to **The Repo Vault**! This is my personal collection of useful, inspiri
 
 * [**Hugging Face Transformers**](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 * [**Awesome Machine Learning**][https://github.com/josephmisiti/awesome-machine-learning](https://github.com/huggingface) - A curated list of awesome machine learning frameworks, libraries, and software.
-
-## 🎨 Design & UI/UX
-*Icons, component libraries, and CSS frameworks.*
-
-* [**Tailwind CSS**](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-* [**Feather Icons**](https://github.com/feathericons/feather) - Simply beautiful open source icons.
-
-## 📚 Learning Resources
-*Tutorials, roadmaps, and interview prep.*
-
-* [**Developer Roadmap**](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides, and other educational content to help developers grow.
-* [**Coding Interview University**](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ---
 
