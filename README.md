@@ -27,14 +27,13 @@ Welcome to **The Repo Vault**! This is my personal collection of useful, inspiri
 ## 🛠️ Developer Tools
 *Utilities, CLIs, and workflows that make a developer's life easier.*
 
-* [**Oh My Zsh**](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration.
-* [**Postman-Alternative**](https://github.com/username/repo-name) - Add a description of your favorite API testing tool here.
+* [**HttpSMS**](https://github.com/NdoleStudio/httpsms) - An API gateway that allows you to send and receive SMS messages by using your own Android phone as an SMS service.
 
 ## 🤖 AI & Machine Learning
 *Models, datasets, and frameworks.*
 
 * [**Hugging Face Transformers**](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-* [**Awesome Machine Learning**](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries, and software.
+* [**Awesome Machine Learning**][https://github.com/josephmisiti/awesome-machine-learning](https://github.com/huggingface) - A curated list of awesome machine learning frameworks, libraries, and software.
 
 ## 🎨 Design & UI/UX
 *Icons, component libraries, and CSS frameworks.*
