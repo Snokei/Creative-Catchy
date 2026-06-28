@@ -26,7 +26,7 @@ Welcome to **The Repo Vault**! This is my personal collection of useful, inspiri
 *Models, datasets, and frameworks.*
 
 * [**Hugging Face Transformers**](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-* https://github.com/AIwithhassan/free-claude-code-setup/blob/main/cheat-sheet-free-claude-code.md - How to integrate Nvidia models in VS COde
+* https://github.com/AIwithhassan/free-claude-code-setup/blob/main/cheat-sheet-free-claude-code.md - How to integrate Nvidia models in VSCode
 
 ---
 
