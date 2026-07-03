@@ -28,7 +28,8 @@ Welcome to **The Repo Vault**! This is my personal collection of useful, inspiri
 * [**Hugging Face Transformers**](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 * https://github.com/AIwithhassan/free-claude-code-setup/blob/main/cheat-sheet-free-claude-code.md - How to integrate Nvidia models in VSCode
 
----
+## 🎨 Design & UI/UX
+* (https://uiverse.io/forms) - Tailwind Free designs
 
 > **Note:** This list is constantly growing! Feel free to star (⭐) the repository if you find it useful.
 
