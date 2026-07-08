@@ -3,44 +3,46 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to **The Repo Vault**! This is my personal collection of useful, inspiring, and just plain awesome GitHub repositories. I created this space to keep track of great projects and tools I find across the web.
+Welcome to **The Repo Vault**! A curated collection of useful, inspiring, and awesome GitHub repositories.
 
 ---
 
 ## 📋 Table of Contents
-
 * [🌐 Web Development](#-web-development)
 * [🛠️ Developer Tools](#-developer-tools)
 * [🤖 AI & Machine Learning](#-ai--machine-learning)
 * [🎨 Design & UI/UX](#-design--uiux)
-* [📚 Learning Resources](#-learning-resources)
 
 ---
 
 ## 🛠️ Developer Tools
-*Utilities, CLIs, and workflows that make a developer's life easier.*
+*Useful utilities, CLIs, and workflows.*
 
-* [**HttpSMS**](https://github.com/NdoleStudio/httpsms) - An API gateway that allows you to send and receive SMS messages by using your own Android phone as an SMS service.
+* [**HttpSMS**](https://github.com/NdoleStudio/httpsms) – API gateway for SMS via Android.
+* [**ntfy**](https://github.com/binwiederhier/ntfy) – Simple HTTP-based pub-sub notification service.
 
 ## 🤖 AI & Machine Learning
 *Models, datasets, and frameworks.*
 
-* [**Hugging Face Transformers**](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-* https://github.com/AIwithhassan/free-claude-code-setup/blob/main/cheat-sheet-free-claude-code.md - How to integrate Nvidia models in VSCode
+* [**Hugging Face Transformers**](https://github.com/huggingface/transformers) – ML for PyTorch, TensorFlow, and JAX.
+* [**Free Claude Code**](https://github.com/AIwithhassan/free-claude-code-setup/blob/main/cheat-sheet-free-claude-code.md) – Integrate Nvidia models in VSCode.
 
 ## 🎨 Design & UI/UX
-* (https://uiverse.io/forms) - Tailwind Free designs
+*Resources for better interfaces.*
 
-> **Note:** This list is constantly growing! Feel free to star (⭐) the repository if you find it useful.
+* [**Uiverse**](https://uiverse.io/forms) – Tailwind-compatible free UI designs.
+
+---
+
+> **Note:** This list is constantly growing! Feel free to star (⭐) the repo if you find it useful.
 
 ## 🤝 Contributing
-If you know of an amazing repository that belongs on this list, feel free to open a Pull Request! Please ensure it fits into one of the existing categories or suggest a new one.
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-link`
+Found an amazing repository? Open a Pull Request!
+1. Fork the repo.
+2. Create a feature branch: `git checkout -b my-new-link`
 3. Commit your changes: `git commit -am 'Add an awesome new repo'`
-4. Push to the branch: `git push origin my-new-link`
-5. Submit a pull request. 
+4. Push and submit a PR.
 
+---
 ## 📄 License
-This repository is licensed under the MIT License.
+Licensed under the [MIT License](https://opensource.org/licenses/MIT).
